@@ -7,6 +7,8 @@
 
         <link rel="stylesheet" href="{{ elixir("css/app.css") }}">
 
+        <script src="{{ elixir("js/components.js") }}"></script>
+
     </head>
     <body>
         <div class="container">
